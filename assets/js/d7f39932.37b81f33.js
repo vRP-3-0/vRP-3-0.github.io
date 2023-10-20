@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4500],{488:e=>{e.exports=JSON.parse('{"title":"How To Setup","slug":"/category/how-to-setup","permalink":"/docs/category/how-to-setup","navigation":{"previous":{"title":"Introduction for vRP 3.0","permalink":"/docs/intro"},"next":{"title":"How-To","permalink":"/docs/Setup/How-To"}}}')}}]);

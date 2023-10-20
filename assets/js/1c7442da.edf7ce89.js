@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2548],{8004:e=>{e.exports=JSON.parse('{"title":"Q & A","slug":"/category/q--a","permalink":"/docs/category/q--a","navigation":{"previous":{"title":"Client Functions","permalink":"/docs/vRP-client/Client Functions"},"next":{"title":"Admin Menu","permalink":"/docs/vRP-tutorials/Admin Menu"}}}')}}]);
